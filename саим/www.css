@@ -1,0 +1,57 @@
+
+body { font-family: 'Roboto', Arial, Helvetica, sans-serif; 
+  }
+
+header { font-family: serif;  
+}
+.mn { display: flex;
+width: 1200px; }
+
+.one {
+  background-color: grey;
+  width: 300px;
+  height: 400px;
+  padding: 10px 10px;
+  
+  }
+  
+.two { padding: 0px 50px ;
+
+width: 400px; 
+flex-direction: row;}
+.ima { font-family: serif;
+color: rgb(73, 77, 78); 
+text-align: center; }
+
+
+.da { font-family: serif;
+  color: rgb(73, 77, 78); 
+  text-align: center;}
+.zgl { font-family: serif;
+  color: rgb(73, 77, 78);
+}
+
+.ssil { color: rgb(73, 77, 78); }
+
+.telo {
+  background-color: silver;
+  width: 560px;
+margin: 0 auto;
+}
+
+
+
+
+.mail { color: white; }
+.cnt { display: flex;
+justify-content: center; }
+.tx { color: white; }
+
+
+.name {
+font-size: 15px;
+color: rgb(73, 77, 78);
+text-align: center;
+}
+
+.fot {text-align: center;}
